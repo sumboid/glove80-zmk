@@ -2,7 +2,7 @@ manifest:
   defaults:
     revision: v25.11
   remotes:
-    - name: moergo-sc
+    - name: zmkfirmware
       url-base: https://github.com/moergo-sc
   projects:
     - name: zmk
