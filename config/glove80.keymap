@@ -380,9 +380,9 @@
  &kp ESC     &trans  &trans  &trans  &trans                                                                     &trans  &trans  &trans  &trans  &trans
    &kp M     &kp N1  &kp N2  &kp N3  &kp N4  &kp N5                                                     &trans  &trans  &trans  &trans  &trans  &trans
    &kp I    &kp TAB   &kp Q   &kp W   &kp E   &kp R                                                     &trans  &trans  &trans  &trans  &trans  &trans
-   &kp T  &kp LSHFT   &kp A   &kp S   &kp D   &kp F                                                     &trans  &trans  &trans  &trans  &trans  &trans
-   &kp G  &kp LCTRL   &kp Z   &kp X   &kp C   &kp V   &kp LALT  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-  &trans     &trans  &trans  &trans  &trans          &kp SPACE   &none  &trans  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+   &kp T    &kp ESC   &kp A   &kp S   &kp D   &kp F                                                     &trans  &trans  &trans  &trans  &trans  &trans
+   &kp G  &kp LSHFT   &kp Z   &kp X   &kp C   &kp V   &kp LALT  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+  &trans  &kp LCTRL  &trans  &trans  &trans          &kp SPACE   &none  &trans  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
             >;
         };
 
